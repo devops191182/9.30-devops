@@ -5,4 +5,4 @@ Resources:
     Properties:
       BucketName: cicd-s3-demo-25
       VersioningConfiguration:
-        Status: Enabled
+        Status: Suspended
